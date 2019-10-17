@@ -1,2 +1,4 @@
 # Game-Design-Document-Template
 In this project I converted Tim Ruswick's [one-page game design](https://docs.google.com/document/d/1npEvqcMZSp0IX2hWw6Qq0WqJVfmVqS_YOGFWnnwfh-A/edit) that he went over in his vidoe [Game Design Document Template - One Page + Super Easy](https://www.youtube.com/watch?v=q96lz725gIw). If you want to learn more about the video be sure to watch that. I would suggest you take this template and add it as your README.md for your games git repo. This way you have your game design document front and center for anyone who wants to read it all in a centeralized place. Since your using git this will also give your document versioning.
+
+*Special thanks to* Tim Ruswick and [*Josehzz*](http://gdu.io/dev/josehzz)*. Made with love by* [*http://gdu.io*](http://gdu.io)*© 2017 Game Dev Underground. Free to use/modify/distribute* [*under CC 4.0*](http://creativecommons.org/licenses/by/4.0/)*.*
